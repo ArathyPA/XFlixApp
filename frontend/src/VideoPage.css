@@ -1,0 +1,23 @@
+
+.videodescription{
+text-align: left;
+    margin-left: 25rem;
+color: wheat;
+}
+
+.videodetailsflex{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.chip-button{
+    background-color:wheat;    
+}
+.chip{
+    margin-right: 25rem;
+}
+hr{
+    color:white;
+    height:2px;
+}

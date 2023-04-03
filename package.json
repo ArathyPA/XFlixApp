@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "react-router": "5.2.1",
+    "react-router-dom": "^6.8.2"
+  },
+  "name": "arathyajit-p-me_buildout_xflix_react-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

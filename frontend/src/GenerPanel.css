@@ -1,0 +1,41 @@
+.filter-section{
+    /* border: 1px solid orange; */
+    /* border-radius: 20px; */
+    padding: 5px 50px;
+    /* margin: 10px 10px 10px 0px; */
+    background: #444D56;
+    height: 25vh;
+
+    
+}
+#sortbutton{
+    background-color: rgb(213, 208, 208);
+}
+.sort{      
+    
+    margin-left : 15rem;
+    
+}
+.content-rating-btn{
+    padding: 3px;
+    margin: 20px;
+}
+
+.genre-btn{      
+    padding: 3px;
+    margin: 20px;
+    
+}
+.pillclicked{
+    border: 1px solid orange;  
+    border-radius: 20px;
+    background: gray;    
+    padding: 3px;
+    margin: 20px;
+}
+.Gener-section {
+    display:flex;
+    flex-direction: row;    
+    align-items: start;    
+    flex-wrap: wrap;
+}
